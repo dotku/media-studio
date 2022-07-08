@@ -5,5 +5,5 @@ a studio software for creator community.
 
 ## GTD
 - [x] YouTube DL
-- BitDigital Media Sources
-- Image to video tool
+- [ ] BitDigital Media Sources
+- [ ] pdf to video tool
