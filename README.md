@@ -7,3 +7,7 @@ a studio software for creator community.
 - [x] YouTube DL
 - [ ] BitDigital Media Sources
 - [ ] pdf to video tool
+
+## Reference
+
+* https://createstudio.com/
