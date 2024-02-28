@@ -14,3 +14,5 @@ a studio software for creator community.
 * https://leonardo.ai/
 * https://creativecloud.adobe.com/learn/adobe-character-animator
 * https://moviemaker.minitool.com/
+* https://www.adobe.com/creativecloud/video/discover/animation-maker-for-kids.html
+* https://www.essencestudios.net/
