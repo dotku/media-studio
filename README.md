@@ -11,3 +11,4 @@ a studio software for creator community.
 ## Reference
 
 * https://createstudio.com/
+* https://leonardo.ai/
