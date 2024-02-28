@@ -10,5 +10,5 @@ a studio software for creator community.
 
 ## Reference
 
-* https://createstudio.com/
+* https://createstudio.com/ $67
 * https://leonardo.ai/
