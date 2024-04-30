@@ -1,5 +1,5 @@
 # media-studio
-a studio software for creator community.
+a media studio to help business to create advertizing content or elements
 
 - https://yunmaovideo.com/
 
