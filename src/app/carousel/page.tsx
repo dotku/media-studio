@@ -8,7 +8,7 @@ export default function CarouselPage() {
     <div className="h-56 sm:h-64 xl:h-80 2xl:h-[720px] max-w-7xl mx-auto p-5">
       <Carousel pauseOnHover>
         <div className="relative w-full h-full flex items-center justify-center">
-          <h3 className="relative text-white text-4xl md:text-8xl z-10 text-gray-100">
+          <h3 className="relative text-4xl md:text-8xl z-10 text-transparent bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text">
             influrencers
           </h3>
           <video
